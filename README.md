@@ -1,21 +1,21 @@
-DSP-260 Editor V1.5.0 Release Notes
-DSP-260 EDITOR V1.5.0 RELEASE NOTES 1
-System Requirements 1
-What’s new in DSP260 Editor V1.5.0 1
-Windows 7 / DSP-260 driver installation 1
-System Requirements
-Input Connections One USB port (Host)
-Input Devices Mouse & Keyboard
-Minimum Available System Hard Disk 250 MB
-Minimum System Framework Microsoft .Net 2.0
-Minimum System Graphics Card High color (16 bit)
-Minimum System Memory 256 MB RAM
-Minimum System OS Microsoft Window XP Service pack 2,
-Vista or Windows 7
-Minimum System Processor Pentium IV with 1.2 GHz or Higher is
-recommended
-System Platform PC
-What’s new in DSP260 Editor V1.5.0
+-DSP-260 Editor V1.5.0 Release Notes
+-DSP-260 EDITOR V1.5.0 RELEASE NOTES 1
+-System Requirements 1
+-What’s new in DSP260 Editor V1.5.0 1
+-Windows 7 / DSP-260 driver installation 1
+-System Requirements
+-Input Connections One USB port (Host)
+-Input Devices Mouse & Keyboard
+-Minimum Available System Hard Disk 250 MB
+-Minimum System Framework Microsoft .Net 2.0
+-Minimum System Graphics Card High color (16 bit)
+-Minimum System Memory 256 MB RAM
+-Minimum System OS Microsoft Window XP Service pack 2,
+-Vista or Windows 7
+-Minimum System Processor Pentium IV with 1.2 GHz or Higher is
+-recommended
+-System Platform PC
+-What’s new in DSP260 Editor V1.5.0
 1. Bug Fix- Correct Firmware version is displayed on Boot
 2. Bug Fix- User-selected Linking of EQs is correctly stored when saving a User Preset
 3. Bug Fix-A bug causing occasional loss of Lock/Hide parameter settings after reboot

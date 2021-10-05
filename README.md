@@ -3,9 +3,9 @@
 #### DSP-260 EDITOR V1.5.0 RELEASE NOTES 1
 
 ```
-System Requirements 1
-What’s new in DSP260 Editor V1.5.0 1
-Windows 7 / DSP-260 driver installation 1
+Windows XP, Vista or Higher
+DSP260 Editor V1.5.0 1
+Windows 7 / DSP-260 driver with extra driver installation
 ```
 ### System Requirements
 
